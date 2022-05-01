@@ -114,6 +114,10 @@ border-radius: 10px;
     width: 18px;
     margin-bottom: 5px;
 }
+.cards .card-footer{
+    border-top: none;
+    background-color: white;
+}
 .testimonial img{
     width: 120px;
 height: 120px;
