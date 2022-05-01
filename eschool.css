@@ -1,0 +1,144 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+.signin{
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    background-color: #21B573;
+    border: none;
+    color: white;
+}
+.navbar{
+    margin-left: 212px;
+    margin-top: 30px;
+    
+}
+.marketing .col-md-3{
+    
+    
+    margin-left: 205px;
+    margin-top: 97px;
+    
+}
+.marketing .col-md-3 .ready{
+color: #FD511A;
+}
+.marketing .col-md-3 h1{
+    
+    font-weight: 700;
+    
+    line-height: 70px;
+}
+#anyschedule{
+    color: #21B573;
+}
+.lorem1{
+    color: #6C6B6B;
+}
+.getstart{
+    background-color: #21B573;
+    border: none;
+    padding: 12px 36px;
+    width: 153px;
+    height: 43px;
+    color: white;
+    border-radius: 33px;
+}
+
+.marketing .col-md-7 img{
+    width: 554px;
+    height: 346px;
+    margin-top: 86px;
+    margin-left: 190px;
+}
+.toppart{
+    background-color: #F0FFF0;
+    height: 550px;
+}
+.toppart.row{
+    margin-top: 210px;
+}
+.cat1 img,.cat2 img,.cat3 img,.cat4 img{
+    
+    width: 66px;
+height: 85px;
+}
+.cat1,.cat2,.cat3,.cat4{
+    
+    width: 270px;
+height: 270px;
+background-color: #F0FFF0;
+border-radius: 10px;
+}
+.cat1 img,.cat2 img,.cat3 img,.cat4 img{
+    margin-top: 54px;
+    margin-bottom: 22px;
+}
+.catagories .row{
+    margin-left: 135px;
+}
+.cards h1{
+    font-weight: 700;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 62px;
+}
+.cards .row{
+    margin-left: 135px;
+}
+.cards .col{
+    border-radius: 18px;
+    box-shadow: 5px 7px 10px rgb(183, 171, 171);
+}
+.card .card-img-top{
+    padding: 24px 20px 19px 19px;
+}
+.cards .card{
+    border: none;
+}
+.card .buy{
+    width: 137px;
+    height: 35px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.card-footer img{
+    height: 20px;
+    width: 18px;
+    margin-bottom: 5px;
+}
+.testimonial img{
+    width: 120px;
+height: 120px;
+}
+.testimonial .man{
+    margin-left: 310px;
+}
+.lastpart ul{
+    list-style: none;
+}
+.lastpart .a{
+    font-weight: 700;
+}
+.lastpart .row{
+    margin-left: 143px;
+    
+}
+.lastpart{
+    background-color: #282531;
+    color: white;
+    height: 400px;
+}
+.lastpart .row .col-md-5, .lastpart .row .col-md-2, .lastpart .row .col-md-2, .lastpart .row .col-md-2{
+    margin-top: 55px;
+}
+.lastpart footer{
+    margin-top: 140px;
+}
